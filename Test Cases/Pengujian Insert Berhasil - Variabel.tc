@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengujian Insert Berhasil - Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56d542fc-31cc-449a-9e8e-e544495ee20c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dbd9b40-98b5-42c5-95ee-eb7697485dd2</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54f4f383-5a36-4dd3-9637-e1ed5598977c</id>
+      <masked>false</masked>
+      <name>nip</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59e57caf-31ea-4352-b924-cfb9fbd6cc90</id>
+      <masked>false</masked>
+      <name>telp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9938f95-647f-4bb4-aeae-9bbd2825ff6e</id>
+      <masked>false</masked>
+      <name>tgl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d79bec8-150f-426c-ab4b-7a337652bcac</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>
